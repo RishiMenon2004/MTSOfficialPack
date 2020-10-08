@@ -17,7 +17,7 @@
                 "animations": [
                     {
                         "animationType": "rotation",
-				        "centrePoint" : [0, 0.71065, -0.8691],
+				        "centerPoint" : [0, 0.71065, -0.8691],
 				        "axis" : [90, 0, 0],
                         "duration": 30,
 				        "variable" : "door_tailgate"

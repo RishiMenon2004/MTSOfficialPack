@@ -8,7 +8,7 @@
         "isWheel": true,
         "isTread": false,
         "canFloat": false,
-        "canGoFloat": true,
+        "canGoFlat": true,
         "height" : 1.0,
         "width" : 1.0,
 		"motiveFriction" : 0.5,

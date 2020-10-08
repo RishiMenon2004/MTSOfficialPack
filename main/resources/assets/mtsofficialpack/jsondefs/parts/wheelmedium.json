@@ -8,7 +8,7 @@
         "isWheel": true,
         "isTread": false,
         "canFloat": false,
-        "canGoFloat": true,
+        "canGoFlat": true,
         "diameter" : 0.75,
 		"motiveFriction" : 0.5,
 		"lateralFriction" : 0.5
